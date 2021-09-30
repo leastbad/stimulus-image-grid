@@ -1,6 +1,6 @@
 {
   "name": "stimulus-image-grid",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Stimulus controller for beautiful responsive image grids",
   "keywords": [
     "stimulus",
@@ -25,12 +25,12 @@
     "dev": "rollup -wc",
     "release": "np"
   },
-  "homepage": "https://image-grid.leastbad.com/",
+  "homepage": "https://leastbad.com/",
   "bugs": {
     "url": "https://github.com/leastbad/stimulus-image-grid/issues"
   },
   "dependencies": {
-    "stimulus": "https://github.com/stimulusjs/dev-builds/archive/b8cc8c4/stimulus.tar.gz"
+    "stimulus": ">=2.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.6.2",
